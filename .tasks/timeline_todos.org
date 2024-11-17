@@ -1,0 +1,12 @@
+#+TITLE: Timeline Todos
+#+STARTUP: agenda
+
+
+* Main
+** timelines
+*** DONE shift to submodule
+*** DONE shift definitions to timelines repo?
+*** [∅] food timeline
+*** plastic
+https://en.m.wikipedia.org/wiki/Timeline_of_plastic_development
+* Links

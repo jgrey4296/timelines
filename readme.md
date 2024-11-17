@@ -5,42 +5,42 @@ date: 2024-01-01
 tags:
 ---
 
-## Todos
-### Geographic Locations
-#### africa
-#### australasia
-#### china
-#### central_america
-#### europe
-#### north_america
-#### russia
-#### south_america
+# Todos
+## Geographic Locations
+### africa
+### australasia
+### china
+### central_america
+### europe
+### north_america
+### russia
+### south_america
 
-### Politics
-#### british_politics
-#### french_politics
-#### usa_politics
-#### wars
-#### monarchies
+## Politics
+### british_politics
+### french_politics
+### usa_politics
+### wars
+### monarchies
 
-### Humanities
-#### art
-#### authors
-#### law
-#### food
-#### music
-#### philosophers
+## Humanities
+### art
+### authors
+### law
+### food
+### music
+### philosophers
 
-### Sociology
-#### crime
-#### murderers
-#### religions
-#### technology
+## Sociology
+### crime
+### murderers
+### religions
+### technology
 
-### Misc
-#### dk
+## Misc
+### dk
 
-## Timeline Format
+# Timeline Format
 ```
 # Ext: .timeline
 
